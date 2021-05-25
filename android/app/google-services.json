@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "283850100148",
+    "project_id": "informaclub",
+    "storage_bucket": "informaclub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283850100148:android:629470656ca6c2143176e1",
+        "android_client_info": {
+          "package_name": "com.fitness.inforamclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283850100148-8ov1p7hfbjv483j9eq8142mrm9em5jej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitness.inforamclub",
+            "certificate_hash": "fec2148d05a08f41cea7fbe1f010353b0b301570"
+          }
+        },
+        {
+          "client_id": "283850100148-6kfb6a2blav964fhahop5fr7knt3q5q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3JtsYuiS5KIowjeOpZLLW4PS2mc7AEYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283850100148-6kfb6a2blav964fhahop5fr7knt3q5q3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283850100148-tdkvocnnjslkg8vkla845inidiuks14p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fitness.inforamclub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283850100148:android:6ef89f5725031d723176e1",
+        "android_client_info": {
+          "package_name": "com.informa.studio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283850100148-3csfmmdh04ih7b10sg2d0hi68f6ha46q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.informa.studio",
+            "certificate_hash": "78f6d1f003a718031e60c5a9516ffc07d33ddff6"
+          }
+        },
+        {
+          "client_id": "283850100148-6kfb6a2blav964fhahop5fr7knt3q5q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3JtsYuiS5KIowjeOpZLLW4PS2mc7AEYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283850100148-6kfb6a2blav964fhahop5fr7knt3q5q3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283850100148-tdkvocnnjslkg8vkla845inidiuks14p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fitness.inforamclub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
